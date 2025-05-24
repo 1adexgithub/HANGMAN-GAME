@@ -1,5 +1,5 @@
 # About the Project
-This Project was built to guess answers based on Frontend development, as of this point. The project is still under improvements
+This Project was built to guess answers based on Frontend development, as of this point. The project is still under development.
 
 # Getting Started with Create React App
 
